@@ -28,3 +28,4 @@ Where is the icon for the project navigator and where is it located?
 file, where all the stuff from the project goes
 
 errors and outputs are visible in debug area
+``
